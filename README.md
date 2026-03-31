@@ -7,9 +7,9 @@
 
 ## 🚀 Tech Stack
 - Frontend: HTML, CSS, JavaScript, TypeScript, React
-- Backend: Node.js, Flask, Django, MySQL
-- Cloud: AWS, Firebase
-- Tools: Git, Docker, REST APIs, GraphQL
+- Backend: Node.js, Flask, MySQL
+- Cloud: AWS
+- Tools: Git, Docker, REST APIs
 - Data Science: Python, Pandas, NumPy, scikit-learn
 
 ## 📂 Projects
